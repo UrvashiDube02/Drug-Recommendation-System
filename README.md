@@ -2,7 +2,6 @@
 
 **PROBLEM DEFINITION:**
 <br>
-<br>
 <p align="justify">
 Pharmaquick is a pharmaceutical company/hospital that has approached us with a
 problem statement that asks us to forecast which drug type is best for each
